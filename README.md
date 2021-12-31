@@ -3,7 +3,7 @@
 <!--
 **harshithard/harshithard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# I am a passionate programmer always looking for something to learn. I enjoy a good problem solving puzzle. 
+## I am a passionate programmer always looking for something to learn. I enjoy a good problem solving puzzle. 
 
 Here are some ideas to get you started:
 
