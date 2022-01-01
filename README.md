@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 Testing how to buttons
 
 [Here is a link to my repositor](https://github.com/harshithard/Multimodal-Fusion)
-[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/harshithard/Multimodal-Fusion)
+[![Build Status](https://www.linkedin.com/in/harshithard/)](https://www.linkedin.com/in/harshithard/)
