@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with building innovative projects
 - 💬 Ask me about 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harshithard/)
+- 📫 How to reach me: [![Linkedin](https://www.linkedin.com/in/harshithard/)]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: > The most clever minds are the craziest
 
