@@ -9,15 +9,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing my coding skills
 - 🌱 I’m currently learning AWS development
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on projects related to ML and AI
 - 🤔 I’m looking for help with building innovative projects
-- 💬 Ask me about 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harshithard/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: > The most clever minds are the craziest
 
-Testing how to buttons
+<!--Testing how to buttons
 
 [Here is a link to my repositor](https://github.com/harshithard/Multimodal-Fusion)
 [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
-[![Build Status](https://www.linkedin.com/in/harshithard/)](https://www.linkedin.com/in/harshithard/)
+[![Build Status](https://www.linkedin.com/in/harshithard/)](https://www.linkedin.com/in/harshithard/) -->
