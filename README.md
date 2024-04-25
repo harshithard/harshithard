@@ -8,12 +8,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing my coding skills
-- 🌱 I’m currently learning AWS development
+- 🌱 I’m currently learning Vector Databases and LLM underlying architectures
 - 👯 I’m looking to collaborate on projects related to ML and AI
 - 🤔 I’m looking for help with building innovative projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harshithard/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: > The most clever minds are the craziest
+- ⚡ Fun fact: > I can take power naps enywhere and anytime and wake up without an alarm
 
 <!--Testing how to buttons
 
